@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@500;600;700&family=Work+Sans&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 12px;
+  font-family: "Spartan" sans-serif;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 12px;
+  font-family: "Spartan" sans-serif;
+}
+
+.main {
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 28rem;
+}
+
+.main-img1 {
+  background-image: url(/images/desktop-image-hero-1.jpg);
+}
+
+.main-img2 {
+  background-image: url(/images/desktop-image-hero-2.jpg);
+}
+
+.main-img3 {
+  background-image: url(/images/desktop-image-hero-3.jpg);
+}
+
+.description-header {
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.description {
+  color: hsl(0, 0%, 63%);
+}
+
+.description-action {
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.shop-icon {
+  width: 100px;
+  color: brown;
+}
+
+.hero-img1 {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-img2 {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-text {
+  padding: 3rem 2rem;
+}
